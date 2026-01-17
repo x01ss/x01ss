@@ -7,7 +7,7 @@
 <strong>programmer</strong>
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=lua,python&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
