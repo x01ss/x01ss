@@ -4,10 +4,10 @@
 </h1>
 
 <p align="center">
-<strong>programmer</strong>
+<strong>code for fun</strong>
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
